@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PhishLens</string>
+    <string name="accessibility_service_description">PhishLens Real-Time Browser Shield inspects web links opened in your mobile browser to protect you against phishing scams and fake URLs using AI.</string>
+</resources>
