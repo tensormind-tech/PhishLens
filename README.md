@@ -1,6 +1,15 @@
 # PhishLens 🛡️📱
 > **AI-Powered Mobile Phishing & Social Engineering Threat Detector**
 
+<p align="left">
+  <img src="https://img.shields.io/badge/🏆_Hackathon_Winner-Best_Security_&_Privacy_Hack-FFD700?style=for-the-badge&labelColor=0d1117" alt="Best Security & Privacy Hack"/>
+  <img src="https://img.shields.io/badge/Kotlin-2.0+-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Jetpack_Compose-Material_3-4285F4.svg?style=for-the-badge&logo=android&logoColor=white" alt="Compose"/>
+  <img src="https://img.shields.io/badge/Groq_AI-Llama--3.1--8B-F55036.svg?style=for-the-badge&logo=groq&logoColor=white" alt="Groq"/>
+</p>
+
+> 🏆 **Award Winner: Best Security & Privacy Hack** — Recognized for engineering an intelligent on-device defensive layer against SMS smishing, QR quishing, and spoofed alerts using ML Kit OCR and high-speed Groq AI reasoning.
+
 Built for **Android** using **Kotlin + Jetpack Compose**, **Material 3**, **ML Kit OCR**, **CameraX Barcode Scanning**, and **Groq LLM Integration**.
 
 ---
